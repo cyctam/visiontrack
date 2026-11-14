@@ -1,0 +1,14 @@
+{
+  "cameras": [
+    {
+      "name": "Nol Km Timur - Malioboro",
+      "location": "Kota Yogyakarta - Malioboro / Nol Km",
+      "url": "https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/chunklist_w221624478.m3u8"
+    },
+    {
+      "name": "Sugeng Jeroni 1",
+      "location": "Kota Yogyakarta - ATCS Sugeng Jeroni",
+      "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni1.stream/chunklist_w758098670.m3u8"
+    }
+  ]
+}
